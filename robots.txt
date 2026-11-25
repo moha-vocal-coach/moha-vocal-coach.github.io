@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moha-vocal-coach.github.io/sitemap.xml
